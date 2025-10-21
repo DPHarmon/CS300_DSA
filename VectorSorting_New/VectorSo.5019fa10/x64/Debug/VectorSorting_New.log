@@ -1,0 +1,4 @@
+﻿  VectorSorting.cpp
+C:\Users\dylan\OneDrive\Desktop\VectorSorting_New\VectorSorting.cpp(95,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dylan\OneDrive\Desktop\VectorSorting_New\VectorSorting.cpp(314,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  VectorSorting_New.vcxproj -> C:\Users\dylan\OneDrive\Desktop\VectorSorting_New\x64\Debug\VectorSorting_New.exe
